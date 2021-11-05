@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="19455" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
-    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <device id="retina6_1" orientation="portrait" appearance="dark"/>
     <dependencies>
         <deployment identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19454"/>
@@ -99,7 +99,7 @@
                     </view>
                     <connections>
                         <outlet property="bitcoinLabel" destination="N2a-Ax-iRV" id="xG7-5S-0im"/>
-                        <outlet property="currencyLabel" destination="Ocx-jo-FtC" id="bvI-T7-o8U"/>
+                        <outlet property="currencyLabel1" destination="MAn-y0-nXv" id="XZQ-0M-38J"/>
                         <outlet property="currencyPicker" destination="ct2-jk-pgH" id="Fn7-Oi-A3z"/>
                     </connections>
                 </viewController>
